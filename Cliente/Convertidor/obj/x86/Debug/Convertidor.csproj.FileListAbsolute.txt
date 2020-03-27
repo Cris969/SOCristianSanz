@@ -1,0 +1,7 @@
+C:\Users\Cristian-PC\AppData\Local\Temporary Projects\Convertidor\bin\Debug\Convertidor.exe
+C:\Users\Cristian-PC\AppData\Local\Temporary Projects\Convertidor\bin\Debug\Convertidor.pdb
+C:\Users\Cristian-PC\AppData\Local\Temporary Projects\Convertidor\obj\x86\Debug\Convertidor.Form1.resources
+C:\Users\Cristian-PC\AppData\Local\Temporary Projects\Convertidor\obj\x86\Debug\Convertidor.Properties.Resources.resources
+C:\Users\Cristian-PC\AppData\Local\Temporary Projects\Convertidor\obj\x86\Debug\Convertidor.csproj.GenerateResource.Cache
+C:\Users\Cristian-PC\AppData\Local\Temporary Projects\Convertidor\obj\x86\Debug\Convertidor.exe
+C:\Users\Cristian-PC\AppData\Local\Temporary Projects\Convertidor\obj\x86\Debug\Convertidor.pdb
